@@ -1,12 +1,14 @@
+👋 Hi, I’m Mick
+<br>
+🌱 I’m currently looking for web developer and software engineering jobs.
+<br>
+💞️ I’m looking to collaborate on any project I can expand my skills as a developer.
+<br>
+:grinning: Here is a link to my current portfolio
 
-<h3 align="left">Reach Out:</h3>
-<p align="left">
-  
+Click here to visit my LinkedIn page! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
- <a href="https://www.linkedin.com/in/mick-lito/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
-  <a href="mailto:micklito.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+Click here to email me! [:envelope: Email](mailto:micklito.dev@gmail.com) 
   
 ## My Github Stats
 
