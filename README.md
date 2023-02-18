@@ -1,6 +1,3 @@
-# Hi Im Mick
-## I am intrested in working on any open source colaboration that can further expand my skills as a developer. 
-## I am searching for employment as a Software Developer.
 
 <h3 align="left">Reach Out:</h3>
 <p align="left">
@@ -9,7 +6,16 @@
  <a href="https://www.linkedin.com/in/mick-lito/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <a href="mailto:micklito.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-_________________________________________________________________
+
+  
+## My Github Stats
+
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cobalt88&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)   -->
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobalt88&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/Micklitodev)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=cobalt88&theme=tokyonight)](https://github.com/cobalt88/github-profile-trophy) -->
+  
+  
 ## Skills:
 
 #### Client-Side:
