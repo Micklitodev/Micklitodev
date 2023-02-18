@@ -1,10 +1,11 @@
-  👋 Hi, I’m Michael
-<br>
-    I’m currently looking for software engineering careers.
-<br>
-    I’m looking to collaborate on any project I can learn on.
-<br>
+<h3 align="left">Reach Out:</h3>
+<p align="left">
+  
 
+ <a href="https://www.linkedin.com/in/mick-lito/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+  <a href="mailto:micklito.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+_________________________________________________________________
 ## Skills:
 
 #### Client-Side:
