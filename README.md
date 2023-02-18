@@ -1,3 +1,7 @@
+# Hi Im Mick
+## I am intrested in working on any open source colaboration that can further expand my skills as a developer. 
+## I am searching for employment as a Software Developer.
+
 <h3 align="left">Reach Out:</h3>
 <p align="left">
   
