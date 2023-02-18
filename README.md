@@ -1,8 +1,8 @@
   👋 Hi, I’m Michael
 <br>
- I’m currently looking for software engineering careers.
+    I’m currently looking for software engineering careers.
 <br>
- I’m looking to collaborate on any project I can learn on.
+    I’m looking to collaborate on any project I can learn on.
 <br>
 
 ## Expertise:
