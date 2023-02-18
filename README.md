@@ -34,6 +34,8 @@ I am also an open-source enthusiast. I have learned a lot from the open-source c
 [![My Skills3](https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,firebase,mysql)](https://skillicons.dev)
 
 **tools used**                                                                                                                                                                            
-[![My Skills4](https://skillicons.dev/icons?i=vscode,git,heroku,jest,figma,md)](https://skillicons.dev)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=micklitodev&show_icons=true&theme=gotham" />
+[![My Skills4](https://skillicons.dev/icons?i=vscode,git,heroku,jest,figma,md)](https://skillicons.dev) 
+                                                                                                                                           
+<br> 
+                                                                                                                                           
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=micklitodev&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
