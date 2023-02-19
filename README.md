@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>  
- <a href="https://www.github.com/micklitodev" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=micklitodev"  align="right" width="100" ></a>
+ <a href="https://www.github.com/micklitodev" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=micklitodev.micklitodev"  align="right" width="100" ></a>
 <br>
 
 <br />
