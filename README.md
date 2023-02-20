@@ -1,7 +1,7 @@
 <h1 align='center'> Hey there 👋 </h1>
 <br>
-<!-- <a href="https://discord.gg/Parasytekosm#8380">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> -->
+<a href="https://discord.gg/Parasytekosm#8380">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <!-- <a href="https://www.linkedin.com/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>   -->
