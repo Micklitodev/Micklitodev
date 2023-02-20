@@ -1,10 +1,10 @@
 <h1 align='center'> Hey there 👋 </h1>
 <br>
-<a href="https://discord.gg/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-<a href="https://www.linkedin.com/">
+<!-- <a href="https://discord.gg/Parasytekosm#8380">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> -->
+<!-- <a href="https://www.linkedin.com/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  
+</a>   -->
  <a href="https://www.github.com/micklitodev" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=micklitodev.micklitodev"  align="right" width="100" ></a>
 <br>
 
