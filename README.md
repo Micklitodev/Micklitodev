@@ -12,9 +12,9 @@
 <br> 
 
 
-Hi, I'm Mick, a passionate full stack Software Engineer from Atlanta. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+My name is Mick, and I'm a skilled full stack Software Engineer hailing from the bustling city of Atlanta. My love for software stems from the thrill of ideating and bringing them to fruition with polished user interfaces. My projects are built with a keen focus on delivering exceptional experiences, sound architecture, and high-quality code.
 
-I am also an open-source enthusiast. I have learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source programs. :)
+In addition to my passion for software development, I am also an avid open-source advocate. I find immense value in the collaborative nature of the open-source community and have learned extensively from its programs. Being able to share knowledge and work with others towards a common goal is something that truly inspires me. :)
 
  <br>
  <br>
