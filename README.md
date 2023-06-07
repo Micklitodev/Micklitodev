@@ -5,13 +5,7 @@
 <!-- <a href="https://www.linkedin.com/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>   -->
- <a href="https://www.github.com/micklitodev" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=micklitodev.micklitodev"  align="right" width="100" ></a>
-<br>
-
-<br />
 <br> 
-
-
 My name is Mick, and I'm a skilled full stack Software Engineer hailing from the bustling city of Atlanta. My love for software stems from the thrill of ideating and bringing them to fruition with polished user interfaces. My projects are built with a keen focus on delivering exceptional experiences, sound architecture, and high-quality code.
 
 In addition to my passion for software development, I am also an avid open-source advocate. I find immense value in the collaborative nature of the open-source community and have learned extensively from its programs. Being able to share knowledge and work with others towards a common goal is something that truly inspires me. :)
