@@ -15,7 +15,7 @@ Also, Take a look at my [portfolio!](https://dynamicportfolio.herokuapp.com/)
  <br>
  <br>
  
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="/giphy.gif" width="500" height="320" />
                                                                                                                                                                                                                               
 **Frontend:**                                                                                                                                    
 <img src="https://skillicons.dev/icons?i=html,js,ts,react,nextjs,electron" alt="skills" style="width:220px;"/>
