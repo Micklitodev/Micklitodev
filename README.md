@@ -10,7 +10,7 @@ My name is Mick, and I'm a skilled full stack Software Engineer hailing from the
 
 In addition to my passion for software development, I am also an avid open-source advocate. I find immense value in the collaborative nature of the open-source community and have learned extensively from its programs. Being able to share knowledge and work with others towards a common goal is something that truly inspires me. :)
 
-Also, Take a look at my <a href="https://dynamicportfolio.herokuapp.com/" target="_blank">portfolio!</a>
+Also, Take a look at my <a href="https://www.mickdev.me/" target="_blank">portfolio!</a>
 
  <br>
  <br>
