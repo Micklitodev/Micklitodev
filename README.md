@@ -13,6 +13,7 @@ collaboration and driven by a continuous thirst for learning and growth in the d
 development.
 
  <br>
+  <br>
 
 Also, Take a look at my <a href="https://www.mickdev.me/" target="_blank">Portfolio!</a>
 
