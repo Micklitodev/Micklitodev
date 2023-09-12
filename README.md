@@ -6,9 +6,11 @@
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>   -->
 <br> 
-My name is Mick, and I'm a skilled full stack Software Engineer hailing from the bustling city of Atlanta. My love for software stems from the thrill of ideating and bringing them to fruition with polished user interfaces. My projects are built with a keen focus on delivering exceptional experiences, sound architecture, and high-quality code.
-
-In addition to my passion for software development, I am also an avid open-source advocate. I find immense value in the collaborative nature of the open-source community and have learned extensively from its programs. Being able to share knowledge and work with others towards a common goal is something that truly inspires me. :)
+My name is Mick, and I'm a Enthusiastic full-stack Software Engineer based in Atlanta with a passion for crafting polished user interfaces
+and delivering exceptional user experiences. Highly skilled in building custom web applications using
+cutting-edge technologies like Next.js, React, GraphQL, Node.js and MongoDB. Committed to open-source
+collaboration and driven by a continuous thirst for learning and growth in the dynamic field of software
+development.
 
 Also, Take a look at my <a href="https://www.mickdev.me/" target="_blank">Portfolio!</a>
 
