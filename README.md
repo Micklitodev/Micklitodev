@@ -12,6 +12,8 @@ cutting-edge technologies like Next.js, React, GraphQL, Node.js and MongoDB. Com
 collaboration and driven by a continuous thirst for learning and growth in the dynamic field of software
 development.
 
+ <br>
+
 Also, Take a look at my <a href="https://www.mickdev.me/" target="_blank">Portfolio!</a>
 
  <br>
