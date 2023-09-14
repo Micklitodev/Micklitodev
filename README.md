@@ -9,7 +9,7 @@
 My name is Mick, and I'm a Enthusiastic full-stack Software Engineer based in Atlanta with a passion for crafting polished user interfaces
 and delivering exceptional user experiences. Highly skilled in building custom web applications using
 cutting-edge technologies like Next.js, React, GraphQL, Node.js and MongoDB. Committed to open-source
-collaboration and driven by a continuous thirst for learning and growth in the dynamic field of software
+collaboration and driven by a continuous thirst for learning and growth in the dynamic and changing field of software
 development.
 
  <br>
